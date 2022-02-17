@@ -1,6 +1,8 @@
 # Project-9_ML_Lead-Scoring-Case-Study_LogisticRegression-
 
-## <font color = Green > Business Understanding /font>  An education company named X Education sells online courses to industry professionals. On any given day, many professionals who are interested in the courses land on their website and browse for courses. 
+## <font color = Green > Business Understanding </font>  
+
+An education company named X Education sells online courses to industry professionals. On any given day, many professionals who are interested in the courses land on their website and browse for courses. 
 
 ## <font color = Green > Problem Statement </font>
 
